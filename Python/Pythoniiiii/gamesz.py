@@ -24,10 +24,6 @@ while True:
                         if abcii.count(harf.lower())>bitta.count(harf.lower()):
                             cnt-=1
                             break
-
-
-
-
                 if cnt==iii:
                     print(f"Soz {bitta} edi. {cnti}")
                     break
