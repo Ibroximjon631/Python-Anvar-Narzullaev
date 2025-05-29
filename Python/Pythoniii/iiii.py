@@ -29,3 +29,7 @@ abc.ocirishlst("School 21")
 abc.korsatsh()
 abc.ozgartirish("School 21","School")
 abc.korsatsh()
+
+
+
+print("Abc")
